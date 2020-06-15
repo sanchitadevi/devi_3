@@ -1,0 +1,125 @@
+body{
+    background-image:url("../img/photo5.jpg") ;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+header{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.head{
+    float:center;
+    color:#ffffff;
+    font-family: cursive;
+}
+
+nav{
+    float: right;
+    color:white;
+    font-style: italic;
+    font-weight: bold;
+}
+
+li{
+    display: inline;
+    padding: 1rem;
+}
+
+li a{
+    color:#ffffff;
+    text-decoration:none;
+    font-size: bold;
+}
+
+.Active{
+    color:red;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 1%;
+}
+
+.box-1 h2{
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+    color: whitesmoke;
+}
+
+showcase h1{
+    color: #ffffff;
+    font-family: cursive;
+    text-align: center;
+}
+
+showcase h3{
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.Foodlist{
+    color: cornsilk;
+    margin-top: 5%;
+    text-align: center;
+    font-family: cursive ;
+    font-size: bold;
+}
+
+.burger{
+    border:3px double black;
+    padding: 20px;
+    margin: 5px;
+}
+
+.fries{
+    border:3px double black;
+    padding: 20px;
+    margin: 5px;
+}
+
+.pizza{
+    border:3px double black;
+    padding: 20px;
+    margin: 5px;
+ }
+
+img{
+    width:50%;
+    border-collapse: 50%;
+}
+
+.fries{
+    padding: 1rem;
+}
+
+.pizza{
+    padding: 1rem;
+}
+
+h4{
+    font-size: 1.5rem;
+    margin: 3%;
+}
+
+.btn{
+    background-color: crimson;
+    padding: 1rem;
+    border: none;
+    border-radius: 8px;
+    margin: 45%;
+}
+
+#main-footer{
+    text-align: center;
+    background-color:none;
+    color:black;
+    font-size:30px;
+}
